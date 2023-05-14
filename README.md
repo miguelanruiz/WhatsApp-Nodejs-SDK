@@ -5,7 +5,7 @@ This source code is licensed under the license found in the
 LICENSE file in the root directory of this source tree.
 -->
 
-# WhatsApp Business Platform Node.js SDK for the Cloud API, hosted by Meta
+# WhatsApp Business Platform Node.js SDK for the Cloud API, hosted by Meta - Alpha
 <p align="center">
 <img src="./website/static/img/wa_logo-216px.svg" width="216" alt="WhatsApp Logo" />
 </p>
